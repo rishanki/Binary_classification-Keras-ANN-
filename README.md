@@ -1,4 +1,4 @@
-# Binary_classification-Keras
+# Binary_classification-Keras(ANN)
 The following notebook is a very easy guideline to follow for creating your own ANN(Artificial Neural Network).
 
 2 approaches have been used. One where we have used (Wrappers for the Scikit-Learn API-Keras). Check out the link here https://keras.io/scikit-learn-api/ It is basically creating your own function for the keras model and then calling it using the wrappers. For validation the kfold data split technique is used.
